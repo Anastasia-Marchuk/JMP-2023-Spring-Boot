@@ -1,0 +1,6 @@
+com/amarchuk/jmp/task5/service/CommonService.class
+com/amarchuk/jmp/task5/service/UserCommonServiceImpl.class
+com/amarchuk/jmp/task5/Task5Application.class
+com/amarchuk/jmp/task5/entity/User.class
+com/amarchuk/jmp/task5/dao/UserDao.class
+com/amarchuk/jmp/task5/web/UserController.class

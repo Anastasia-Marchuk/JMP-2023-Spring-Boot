@@ -1,0 +1,6 @@
+com/amarchuk/jmp/task4/entity/User.class
+com/amarchuk/jmp/task2/service/UserCommonServiceImpl.class
+com/amarchuk/jmp/task4/Task4Application.class
+com/amarchuk/jmp/task2/web/UserController.class
+com/amarchuk/jmp/task4/service/CommonService.class
+com/amarchuk/jmp/task4/dao/UserDao.class
